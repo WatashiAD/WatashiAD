@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**WatashiAD/WatashiAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Nordic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=180&section=header&text=WatashiAD&fontSize=42&fontColor=88C0D0&animation=fadeIn" width="100%" alt="Header" />
 
-Here are some ideas to get you started:
+  <!-- Animated Typing Tagline -->
+  <a href="https://github.com/WatashiAD">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Vibe+Coder;Personalization+%26+Customization+Tools;Video+Editor+%7C+DaVinci+Resolve+%2B+Blurrr;Coding+for+Fun" alt="Typing Tagline" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <strong>Vibe Coder &bull; Personalization & Tooling &bull; Video Editor &bull; Coding for Fun</strong>
+  </p>
+
+  <p align="center">
+    <a href="#about">About</a> &bull;
+    <a href="#ai--agentic-stack">AI Stack</a> &bull;
+    <a href="#creative--video-editing">Creative Suite</a> &bull;
+    <a href="#statistics">Statistics</a>
+  </p>
+
+</div>
+
+---
+
+### About
+
+```yaml
+user: WatashiAD
+role: Vibe Coder & Tool Builder
+focus: Personalization, desktop customization, custom utilities
+philosophy: Coding for fun, rapid iteration, creative exploration
+creative: DaVinci Resolve (Desktop) & Blurrr (Mobile)
+theme: Nordic Minimalist
+```
+
+- **Personalization & Customization**: Building tools, scripts, and configurations that tailor digital environments and desktop setups.
+- **Vibe Coding**: Intuitive, flow-driven development—building what is fun, engaging, and practically useful.
+- **Video Editing**: Motion graphics, velocity edits, and color grading across desktop (**DaVinci Resolve**) and mobile (**Blurrr**).
+- **AI-Augmented**: Leveraging modern agentic workflows to build ideas with speed and minimal friction.
+
+---
+
+### AI & Agentic Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity-Google_DeepMind-5E81AC?style=for-the-badge&logo=google&logoColor=ECEFF4" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/OpenCode-CLI_Agent-3B4252?style=for-the-badge&logo=powershell&logoColor=88C0D0" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Qwen_Coder-Alibaba_Cloud-B48EAD?style=for-the-badge&logo=alibabacloud&logoColor=ECEFF4" alt="Qwen Coder" />
+</p>
+
+---
+
+### Creative & Video Editing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-Studio-2E3440?style=for-the-badge&logo=davinciresolve&logoColor=88C0D0" alt="DaVinci Resolve" />
+  &nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ENh3PcjvewUX44bR8CKhK-nrC116a6QNKMBgh6czsw&s=10" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Blurrr Logo" />
+  <img src="https://img.shields.io/badge/Blurrr_App-Mobile_Video_FX-434C5E?style=for-the-badge&logoColor=88C0D0" height="28" style="vertical-align: middle;" alt="Blurrr App" />
+</p>
+
+---
+
+### Environment & Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-81A1C1?style=flat-square&logo=python&logoColor=2E3440" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-5E81AC?style=flat-square&logo=typescript&logoColor=ECEFF4" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-EBCB8B?style=flat-square&logo=javascript&logoColor=2E3440" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-A3BE8C?style=flat-square&logo=gnubash&logoColor=2E3440" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-D08770?style=flat-square&logo=linux&logoColor=2E3440" alt="Linux" />
+  <img src="https://img.shields.io/badge/Personalization-8FBCBB?style=flat-square&logo=speedtest&logoColor=2E3440" alt="Personalization" />
+</p>
+
+---
+
+### Statistics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=WatashiAD&theme=nord&hide_border=true&border_radius=8" alt="WatashiAD Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Nordic Material Aesthetic &bull; WatashiAD</sub>
+</div>
