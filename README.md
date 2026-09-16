@@ -86,5 +86,7 @@ I am a vibe coder focusing on building apps and tools for personalization, deskt
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/WatashiAD/WatashiAD/main/assets/badapple.gif" width="380" alt="Bad Apple" style="border-radius: 8px;" />
+  <br/><br/>
   <sub>Thanks for Reading</sub>
 </div>
