@@ -14,6 +14,7 @@
 
   <p align="center">
     <a href="#about">About</a> &bull;
+    <a href="#scope">Scope</a> &bull;
     <a href="#ai--agentic-stack">AI Stack</a> &bull;
     <a href="#creative--video-editing">Creative Suite</a> &bull;
     <a href="#statistics">Statistics</a>
@@ -31,6 +32,15 @@ I am a vibe coder focusing on building apps and tools for personalization, deskt
 - **Vibe Coding**: Intuitive, flow-driven development—building what is engaging, fun, and practically useful.
 - **Video Editing**: Motion graphics, velocity edits, and color grading across desktop (**DaVinci Resolve**) and mobile (**Blurrr**).
 - **AI-Augmented**: Leveraging modern agentic workflows to build ideas with speed and minimal friction.
+
+---
+
+### Scope
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scope-Personalization-8FBCBB?style=for-the-badge&logoColor=2E3440" alt="Personalization" />
+  <img src="https://img.shields.io/badge/Scope-Customization-88C0D0?style=for-the-badge&logoColor=2E3440" alt="Customization" />
+</p>
 
 ---
 
@@ -63,7 +73,6 @@ I am a vibe coder focusing on building apps and tools for personalization, deskt
   <img src="https://img.shields.io/badge/JavaScript-EBCB8B?style=flat-square&logo=javascript&logoColor=2E3440" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bash-A3BE8C?style=flat-square&logo=gnubash&logoColor=2E3440" alt="Bash" />
   <img src="https://img.shields.io/badge/Linux-D08770?style=flat-square&logo=linux&logoColor=2E3440" alt="Linux" />
-  <img src="https://img.shields.io/badge/Personalization-8FBCBB?style=flat-square&logo=speedtest&logoColor=2E3440" alt="Personalization" />
 </p>
 
 ---
