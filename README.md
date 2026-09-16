@@ -57,7 +57,7 @@ I am a vibe coder focusing on building apps and tools for personalization, deskt
 ### Creative & Video Editing
 
 <p align="left">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-Studio-2E3440?style=for-the-badge&logo=davinciresolve&logoColor=88C0D0" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-Desktop-2E3440?style=for-the-badge&logo=davinciresolve&logoColor=88C0D0" alt="DaVinci Resolve" />
   &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ENh3PcjvewUX44bR8CKhK-nrC116a6QNKMBgh6czsw&s=10" height="28" style="vertical-align: middle; border-radius: 6px;" alt="Blurrr Logo" />
   <img src="https://img.shields.io/badge/Blurrr_App-Mobile_Video_FX-434C5E?style=for-the-badge&logoColor=88C0D0" height="28" style="vertical-align: middle;" alt="Blurrr App" />
