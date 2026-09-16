@@ -77,5 +77,5 @@ I am a vibe coder focusing on building apps and tools for personalization, deskt
 ---
 
 <div align="center">
-  <sub>Nordic Material Aesthetic &bull; WatashiAD</sub>
+  <sub>Thanks for Reading</sub>
 </div>
