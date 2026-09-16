@@ -25,17 +25,10 @@
 
 ### About
 
-```yaml
-user: WatashiAD
-role: Vibe Coder & Tool Builder
-focus: Personalization, desktop customization, custom utilities
-philosophy: Coding for fun, rapid iteration, creative exploration
-creative: DaVinci Resolve (Desktop) & Blurrr (Mobile)
-theme: Nordic Minimalist
-```
+I am a vibe coder focusing on building apps and tools for personalization, desktop customization, and crafting creative utilities. I code for fun, rapid flow, and bringing spontaneous ideas into reality. Alongside development, I do video editing and motion work using DaVinci Resolve on desktop and Blurrr on mobile.
 
 - **Personalization & Customization**: Building tools, scripts, and configurations that tailor digital environments and desktop setups.
-- **Vibe Coding**: Intuitive, flow-driven development—building what is fun, engaging, and practically useful.
+- **Vibe Coding**: Intuitive, flow-driven development—building what is engaging, fun, and practically useful.
 - **Video Editing**: Motion graphics, velocity edits, and color grading across desktop (**DaVinci Resolve**) and mobile (**Blurrr**).
 - **AI-Augmented**: Leveraging modern agentic workflows to build ideas with speed and minimal friction.
 
