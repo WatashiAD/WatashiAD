@@ -38,8 +38,8 @@ I am a vibe coder focusing on building apps and tools for personalization, deskt
 ### Scope
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Scope-Personalization-8FBCBB?style=for-the-badge&logoColor=2E3440" alt="Personalization" />
-  <img src="https://img.shields.io/badge/Scope-Customization-88C0D0?style=for-the-badge&logoColor=2E3440" alt="Customization" />
+  <img src="https://img.shields.io/badge/Personalization-8FBCBB?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMkUzNDQwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE3IDNhMi44NSAyLjgzIDAgMSAxIDQgNEw3LjUgMjAuNSAyIDIybDEuNS01LjVaIi8+PHBhdGggZD0ibTE1IDUgNCA0Ii8+PC9zdmc+" alt="Personalization" />
+  <img src="https://img.shields.io/badge/Customization-88C0D0?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMkUzNDQwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0ibTE4IDIgNCA0LTEwIDEwSDh2LTRMMTggMnoiLz48cGF0aCBkPSJNMTEuNSA4LjUgMTUuNSAxMi41Ii8+PHBhdGggZD0iTTggMTZjLTIgMC01IDEuNS01IDMuNSAwIDEgMSAxLjUgMiAxLjVzMy0uNSAzLjUtMiIvPjwvc3ZnPg==" alt="Customization" />
 </p>
 
 ---
